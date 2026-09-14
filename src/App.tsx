@@ -250,7 +250,7 @@ function App() {
         <section className="section-pad conversation-section">
           <div className="page-grid conversation-grid">
             <figure className="conversation-card">
-              <img src="/ae-chat-example.png" alt="Example A&E Plumbing & Gas chatbot conversation about a slowly leaking kitchen tap" />
+              <img src="/zakir-digital/ae-chat-example.png" alt="Example A&E Plumbing & Gas chatbot conversation about a slowly leaking kitchen tap" />
               <figcaption>Example conversation. The assistant asks relevant questions, avoids promising an appointment, and prepares a clear enquiry for the team.</figcaption>
             </figure>
             <div className="conversation-copy">
