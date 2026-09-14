@@ -24,3 +24,5 @@ Netlify and Vercel can deploy this project with the default Vite settings:
 - Publish directory: `dist`
 
 The Botpress scripts are intentionally included once in `index.html`, immediately before `</body>`.
+
+For GitHub Pages, build output must be deployed from `dist` and uses the `/zakir-digital/` base path.
